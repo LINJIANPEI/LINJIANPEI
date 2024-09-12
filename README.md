@@ -20,14 +20,6 @@
 <h2 align="center"> 贡献图 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <h2 align="center">  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LINJIANPEI"></h2>
 
-
-
-
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=LINJIANPEI&theme=redical">
-</p>
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LINJIANPEI&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
