@@ -1,6 +1,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LINJIANPEI&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LINJIANPEI&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LINJIANPEI&theme=radical&locale=cn">
 </p>
 
 <h2 align="center"> 技术栈 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
