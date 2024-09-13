@@ -1,4 +1,8 @@
 <p align = "center">
+  [我的博客](https://linjianpei.github.io)
+</p>
+
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LINJIANPEI&show_icons=true&theme=tokyonight&line_height=27&locale=cn">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LINJIANPEI&theme=radical&locale=cn">
 </p>
